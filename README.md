@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Misiak</h1>
-<h3 align="center">Control Engineering student from Warsaw</h3>
+<h1 align="left">Hi 👋, I'm Adam Misiak</h1>
+<h2 align="left">Control Engineering student from Warsaw</h2>
 
 - 🔭 I’m currently working on **living a next day to its fullest**
 
@@ -7,12 +7,12 @@
 
 - 👯 I’m looking to collaborate on **intresting projects**
 
-- 📫 How to reach me **adam.misiak.2001@gmail.com**
+- 📫 How to reach me: **adam.misiak.2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adam-misiak-062779252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adam-misiak-062779252/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucry0wouscmnu6ox-rl9kr7a/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucry0wouscmnu6ox-rl9kr7a/videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRY0wOuscMnU6oX-Rl9kR7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucry0wouscmnu6ox-rl9kr7a/videos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
