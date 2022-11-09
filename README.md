@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **living a next day to its fullest**
 
-- 🌱 I’m currently learning **new libraries in python**
+- 🌱 I’m currently learning **javascript**
 
 - 👯 I’m looking to collaborate on **intresting projects**
 
