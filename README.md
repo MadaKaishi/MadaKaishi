@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Adam Misiak</h1>
-<h2 align="left">Control Engineering student from Warsaw</h2>
+<h2 align="left">Systems Engineering student from Wroclaw</h2>
 
 - 🔭 I’m currently working on **living a next day to its fullest**
 
